@@ -1,0 +1,10 @@
+langgraph>=1.1.6
+langchain>=1.2.15
+langchain-core>=1.2.27
+langchain-community>=0.4.1
+langchain-openai>=1.1.12
+trustcall>=0.0.39
+langgraph-cli[inmem]>=0.4.24
+langgraph-sdk>=0.1.52
+python-dotenv>=1.2.2
+streamlit>=1.57.0
